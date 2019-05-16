@@ -1,7 +1,7 @@
 class Dog 
   attr_accessor :name
   
-  def self.bark
+  def bark
     puts "woof!"
   end
   
